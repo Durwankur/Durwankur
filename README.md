@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Durwankur
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
+- 🌱 Power BI, Python, mySQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dcgursale@gmail.com
 
